@@ -1,0 +1,6 @@
+1945
+17.19
+Indonesia merdeka pada tahun 1945
+True
+(8+17j)
+
