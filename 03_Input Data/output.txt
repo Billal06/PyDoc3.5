@@ -1,0 +1,5 @@
+Masukan nama anda: Billal
+Masukan umur anda: 14
+Nama anda: Billal
+Umur anda: 14
+
