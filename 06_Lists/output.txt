@@ -1,0 +1,11 @@
+['Indonesia', 'Majalengka', 1945, 8, 17]
+Indonesia
+Majalengka
+1945
+8
+17
+['Indonesia', 'Majalengka', 1945, 8, 17, 'Jakarta']
+Jakarta
+['Indonesia', 'Majalengka', 1945, 8, 17, 'Jakarta', 'Jawa', 'Sumatra', 'Sulawesi', 'Kalimantan', 'Papua']
+['Indonesia', 'Subang', 1945, 8, 17, 'Jakarta']
+
