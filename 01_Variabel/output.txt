@@ -1,0 +1,5 @@
+10
+Indonesia merderka pada tahun 1945
+True
+0.1
+
